@@ -1,5 +1,5 @@
 # Redis with Node js
-
+![Screenshot](screenshot.PNG)
 
 ## Quick Start
 
@@ -8,7 +8,7 @@
 # Install Dependencies path "current" & "/postman-clone" 
 npm install 
 
-# Run Postman clone and redis connectio
+# Run Postman clone and redis connection
 npm start
 ```
 
