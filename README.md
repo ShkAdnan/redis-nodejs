@@ -1,5 +1,5 @@
 # Redis with Node js
-![Screenshot](screenShot.PNG)
+![Screenshot](ScreenShot.PNG)
 
 ## Quick Start
 
